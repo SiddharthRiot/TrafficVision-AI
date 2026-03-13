@@ -3,7 +3,7 @@ from detection.yolo_detector import detect_vehicles
 
 def start_stream():
 
-    cap = cv2.VideoCapture("detection/Traffic.mp4")
+    cap = cv2.VideoCapture("data/Traffic.mp4")
 
     while True:
 
