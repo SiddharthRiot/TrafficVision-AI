@@ -11,7 +11,7 @@ __pycache__/
 *.pt
 
 # Large media files
-*.mp4
+
 *.avi
 
 # OS files
